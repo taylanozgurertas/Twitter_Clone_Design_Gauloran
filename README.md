@@ -23,8 +23,7 @@ Thx to Veli Bacık https://github.com/VB10 who is teaching me Flutter and many m
 
 ## Looks like this though:
 
-https://resmim.net/cdn/2023/10/12/Sqb0aI.jpg
 
-https://resmim.net/cdn/2023/10/12/Sqby4D.jpg
-
-https://resmim.net/cdn/2023/10/12/Sqb5jb.jpg
+![Screenshot_4](https://github.com/taylanozgurertas/Twitter_Clone_Design_Gauloran/assets/92798120/ed9f4011-86dc-4d1d-b5ab-48ad67a5260b)
+![Screenshot_3](https://github.com/taylanozgurertas/Twitter_Clone_Design_Gauloran/assets/92798120/a78c3da5-fd9a-4ad9-beb5-695222b71224)
+![Screenshot_5](https://github.com/taylanozgurertas/Twitter_Clone_Design_Gauloran/assets/92798120/c333e833-5936-4574-9120-d13988d9f42d)
