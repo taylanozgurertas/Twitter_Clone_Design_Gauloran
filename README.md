@@ -19,7 +19,7 @@ I will try to add some another features. We will see what is going to happen nex
 
 Thx! <3 Gauloran 
 
-Thx to Veli Bacık https://github.com/VB10 who is teaching me Flutter and many more things in life. I hope I will get better I'm still beginner to be honest.
+Thx to Veli Bacık https://github.com/VB10 who is teaching me Flutter and much more things in life. I hope I will get better I'm still beginner to be honest.
 
 ## Looks like this though:
 
